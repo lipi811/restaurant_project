@@ -2,6 +2,7 @@
 2.git init
 3.git remote add origin <GitHub repository URL>[github repository url = in github ,go to code ,copy the git hub url and place it in the place of GitHub repository URL)
 for ex: For example: git remote add origin https://github.com/your-username/your-repo.git
+git pull origin master
 4.(git add .)  (it will add all the file from the folder )
 5.git commit -m "Initial commit" (instead of 'initial commit' you can add anything)
 6.git push -u origin master 
